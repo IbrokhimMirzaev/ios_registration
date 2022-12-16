@@ -7,9 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="black80">#CC000000</color>
+    <color name="black20">#33000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="white60">#99FFFFFF</color>
     <color name="white20">#33FFFFFF</color>
     <color name="gradient1">#FF55F0CB</color>
     <color name="gradient2">#FF0066FF</color>
+    <color name="gr1">#FF8468D4</color>
+    <color name="gr2">#FF27106B</color>
+    <color name="purple">#FFBF5AF2</color>
 </resources>
