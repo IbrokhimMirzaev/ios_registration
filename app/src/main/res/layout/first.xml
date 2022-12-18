@@ -6,8 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/girl_bg"
     android:orientation="vertical"
-    android:padding="16dp"
-    tools:context=".MainActivity">
+    android:padding="16dp">
 
     <TextView
         android:layout_width="wrap_content"
